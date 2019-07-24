@@ -6,13 +6,13 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <licenseUrl>https://github.com/mohsenmou/mvvm-core/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mohsenmou/mvvm-core</projectUrl>
+    <iconUrl>https://github.com/mohsenmou/mvvm-core</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2019</copyright>
-    <tags>Tag1 Tag2</tags>
+    <releaseNotes>First version of project</releaseNotes>
+    <copyright>Copyright 2019 Mohsen Mousavi</copyright>
+    <tags>MVVM, WPF, ViewModelBase, ModelWrapper, Generic Repository</tags>
   </metadata>
 </package>

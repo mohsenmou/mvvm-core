@@ -66,6 +66,7 @@
   <PropertyGroup>
     <PostBuildEvent>if $(ConfigurationName) == Release (
     nuget pack "$(ProjectPath)" -Properties Configuration=Release
-    xcopy "$(TargetDir)*.nupkg" "C:\NuGet" /C /Y</PostBuildEvent>
+    xcopy "$(TargetDir)*.nupkg" "C:\NuGet" /C /Y
+)</PostBuildEvent>
   </PropertyGroup>
 </Project>
