@@ -6,7 +6,7 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/mohsenmou/mvvm-core/LICENSE</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/mohsenmou/mvvm-core</projectUrl>
     <iconUrl>https://github.com/mohsenmou/mvvm-core</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
