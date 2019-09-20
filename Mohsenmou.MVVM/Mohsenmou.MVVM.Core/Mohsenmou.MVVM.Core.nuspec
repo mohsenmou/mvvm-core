@@ -11,7 +11,7 @@
     <iconUrl>https://github.com/mohsenmou/mvvm-core/raw/pictures/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>First version of project</releaseNotes>
+    <releaseNotes>Add ModelPaginator and FocusExtension classes</releaseNotes>
     <copyright>Copyright 2019 Mohsen Mousavi</copyright>
     <tags>MVVM, WPF, ViewModelBase, ModelWrapper, Generic Repository</tags>
   </metadata>
