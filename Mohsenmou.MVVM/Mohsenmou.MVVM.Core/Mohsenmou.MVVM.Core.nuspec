@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/mohsenmou/mvvm-core</projectUrl>
-    <iconUrl>https://github.com/mohsenmou/mvvm-core</iconUrl>
+    <iconUrl>https://github.com/mohsenmou/mvvm-core/raw/pictures/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>First version of project</releaseNotes>
